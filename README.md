@@ -9,6 +9,7 @@ Official branding material for aurora.
   [Colors](https://github.com/auroraapp/branding/blob/main/README.md#colors)
   
 </p>
+
 ---
 
 ### Colors
