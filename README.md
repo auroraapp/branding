@@ -6,7 +6,7 @@ Official branding material for aurora.
 
   [Logos](https://github.com/auroraapp/branding/tree/main/logos)
   |
-  [Colors](https://github.com/auroraapp/branding/README.md###Colors)
+  [Colors](https://github.com/auroraapp/branding/README.md#colors)
   
 </p>
 ---
